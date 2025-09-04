@@ -1,8 +1,8 @@
 # Generative AI for Database & Data Warehouse Schema Design
-
+This project was part of the IBM Generative AI for Data Engineers lab. The focus was on learning how to use AI-assisted workflows for schema design, rather than deploying a production-ready data warehouse.
 <img width="1483" height="1878" alt="gen-ai-sql-schema-design" src="https://github.com/user-attachments/assets/023ba104-1b38-4103-9f77-48e843aa7169" />
 
-This repository contains the work completed for the lab **Generative AI for Database, Data Warehouse Schema Design**. This project was part of the IBM Generative AI for Data Engineers lab. The focus was on learning how to use AI-assisted workflows for schema design, rather than deploying a production-ready data warehouse.
+This repository contains the work completed for the lab **Generative AI for Database, Data Warehouse Schema Design**. 
   
 The goal of this lab was to explore how Generative AI can assist in designing a data warehouse schema, generating SQL code for implementation, and visualizing the schema with DBdiagram.io.
 
