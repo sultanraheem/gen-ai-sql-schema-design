@@ -29,7 +29,7 @@ For a given scenario, the following tasks were completed:
 
 ---
 
-## 📖 Scenario
+## Scenario
 A **fashion retail organization** hired me as a data engineer to design a data warehouse.  
 The warehouse needed to include data from the following sources:
 
@@ -85,7 +85,7 @@ I used **ChatGPT** to debug and fix issues such as:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Clone this repository:  
    ```bash
    git clone https://github.com/sultanraheem/gen-ai-sql-schema-design.git
