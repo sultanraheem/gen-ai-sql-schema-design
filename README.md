@@ -98,16 +98,13 @@ cd gen-ai-sql-schema-design
 Use the provided SQL file to create the schema in your SQL engine (e.g., MySQL).
 
 Import the SQL file into DBdiagram.io
- to generate a visual schema diagram.
+to generate a visual schema diagram.
 
 Repository Structure
-gen-ai-sql-schema-design/
-│
-├── schema.sql          # SQL code for creating the data warehouse schema
-├── README.md           # Documentation (this file)
-└── /assets             # (Optional) schema diagrams or screenshots
+<img width="613" height="149" alt="image" src="https://github.com/user-attachments/assets/6fbb358e-2489-40d2-b50a-a5a42db29324" />
 
-Tools & Technologies
+
+## Tools & Technologies
 
 Generative AI (ChatGPT) → schema proposals, SQL code generation, debugging
 
