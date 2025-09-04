@@ -14,7 +14,7 @@ Data warehouse schema design is crucial for:
 - Organizing and optimizing data storage  
 - Ensuring efficient query performance  
 - Maintaining data integrity  
-- Supporting scalability and flexibility  
+- Supporting scalability and flexibility   
 
 In this lab, Generative AI was leveraged to:
 1. Propose a data warehouse schema for a **fashion retail organization**  
